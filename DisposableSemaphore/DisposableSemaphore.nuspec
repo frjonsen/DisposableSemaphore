@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DisposableSemaphore</id>
+    <version>0.1</version>
+    <title>Disposable Semaphore</title>
+    <authors>Fredrik Jonsén</authors>
+    <owners>Fredrik Jonsén</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/frjonsen/DisposableSemaphore</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Wrapper around SemaphoreSlim implementing IDisposable using a handle</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Semaphore Synchronization</tags>
+  </metadata>
+</package>

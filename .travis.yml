@@ -1,0 +1,8 @@
+language: csharp
+solution: DisposableSemaphore.sln
+dotnet: 2.0
+dist: trusty
+
+script:
+    - dotnet build
+    - dotnet test DisposableSemaphore.UnitTests/DisposableSemaphore.UnitTests.csproj
