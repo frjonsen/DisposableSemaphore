@@ -2,8 +2,8 @@
 <package >
   <metadata>
     <id>DisposableSemaphore</id>
-    <version>0.1</version>
-    <title>Disposable Semaphore</title>
+    <version>$version$</version>
+    <title>$title$</title>
     <authors>Fredrik Jonsén</authors>
     <owners>Fredrik Jonsén</owners>
     <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
